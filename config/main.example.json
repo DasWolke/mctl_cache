@@ -1,0 +1,9 @@
+{
+  "ws_url":"",
+  "use_socket_io":true,
+  "host":"host of the webserver",
+  "port":port,
+  "redis_host":"host of the redis",
+  "redis_database":redis database to use,
+  "origin":"used by mctl for tracking who you are "
+}
